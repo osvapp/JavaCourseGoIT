@@ -1,4 +1,4 @@
-package Modul1.HomeWork1;
+package modul1.homework1;
 
 
 public class SecondClass {
