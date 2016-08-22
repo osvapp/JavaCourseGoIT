@@ -1,6 +1,6 @@
 package modul2.homework1;
 
-public class ArraysIntDouble {
+public class ArraysSum {
     static int sun(int[] CalculateArrays) {
         int sum = 0;
         for (int i = 0; i < CalculateArrays.length; i++) {
