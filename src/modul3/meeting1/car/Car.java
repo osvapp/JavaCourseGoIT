@@ -1,4 +1,4 @@
-package module3.meeting1.car;
+package modul3.meeting1.car;
 
  class Car {
     public String nameOfTheOwner;

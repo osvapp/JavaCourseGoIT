@@ -1,4 +1,4 @@
-package module3.meeting1.phone;
+package modul3.meeting1.phone;
 
 public class MainPhone {
 
