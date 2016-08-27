@@ -1,6 +1,6 @@
-package modul3.meeting1;
+package module3.meeting1.car;
 
-public class Car {
+ class Car {
     public String nameOfTheOwner;
     int year;
     String models;
