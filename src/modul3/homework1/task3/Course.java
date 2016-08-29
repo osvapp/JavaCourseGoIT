@@ -1,8 +1,8 @@
 package modul3.homework1.task3;
 
 
-//import java.util.Date;
-import java.sql.Date;
+import java.util.Date;
+//import java.sql.Date;
 
 public class Course {
     private Date startDate;
@@ -15,17 +15,11 @@ public class Course {
         this.name = name;
     }
 
-
     public Course(String name, int hoursDuration, String teacherName) {
         this.name = name;
         this.hoursDuration = hoursDuration;
         this.teacherName = teacherName;
     }
-
-
-
-                        //GET SET
-
 
     public Date getStartDate() {
         return startDate;

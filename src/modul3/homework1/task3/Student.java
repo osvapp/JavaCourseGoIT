@@ -20,8 +20,6 @@ public class Student  {
         this.coursesTaken = coursesTaken;
     }
 
-                                    //GET SET
-
     public String getFirstName() {
         return FirstName;
     }
